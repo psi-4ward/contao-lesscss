@@ -1,6 +1,6 @@
 {
   "name": "psi/contao-lesscss",
-  "description": "LessCSS compilter for Contao",
+  "description": "LessCSS compiler for Contao",
   "keywords": ["contao", "css", "less", "lesscss"],
   "type": "contao-module",
   "homepage": "https://github.com/psi-4ward/contao-lesscss",

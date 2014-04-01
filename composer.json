@@ -31,7 +31,7 @@
   "extra": {
     "contao": {
       "sources": {
-        "": "system/modules/contao-lesscss"
+        "": "system/modules/lesscss"
       }
     },
     "branch-alias": {
